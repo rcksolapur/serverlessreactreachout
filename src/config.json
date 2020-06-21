@@ -1,0 +1,10 @@
+{
+  "api": { 
+    "invokeUrl": "https://dso9bpj0u4.execute-api.us-east-2.amazonaws.com/ReachOut-Login"
+  },
+  "cognito": {
+    "REGION": "us-east-2",
+    "USER_POOL_ID": "us-east-2_OmAVfEdyX",
+    "APP_CLIENT_ID": "63pbioo1ocj8itk0ipa6ol0d1e"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reachoutappserverles-dev-05237-authRole",
+            "UnauthRoleArn": "arn:aws:iam::338093282702:role/amplify-reachoutappserverles-dev-05237-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::338093282702:role/amplify-reachoutappserverles-dev-05237-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-reachoutappserverles-dev-05237-deployment",
+            "UnauthRoleName": "amplify-reachoutappserverles-dev-05237-unauthRole",
+            "StackName": "amplify-reachoutappserverles-dev-05237",
+            "StackId": "arn:aws:cloudformation:us-east-2:338093282702:stack/amplify-reachoutappserverles-dev-05237/ab41cdb0-b3f4-11ea-92b7-0a7adbd72fc8",
+            "AmplifyAppId": "d36pt1kkylraca"
+        },
+        "categories": {
+            "auth": {
+                "reachoutappserverles91ab9a25": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"reachoutappserverles91ab9a25": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
